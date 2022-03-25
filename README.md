@@ -1,3 +1,3 @@
 # micron landing page
 
-See it here: https://therealkai.github.io/micron-landingpage/
+See it here: https://kaiwritescode.github.io/micron-landingpage/
